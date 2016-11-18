@@ -43,7 +43,7 @@ endif
 #    ophir> make all MACHINE=ophir
 # New machines can be added to ifeq blocks below.
 
-ifeq ($(MACHINE),kraken)
+ifeq ($(MACHINE),default)
   CC = cc
   LDR = cc
   OPT = -O3
