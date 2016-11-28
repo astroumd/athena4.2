@@ -28,7 +28,7 @@
  * - change_rundir() - creates and outputs data to new directory
  * - usage()         - outputs help message and terminates execution	      */
 /*============================================================================*/
-static char *athena_version = "version 4.0 - 01-Jul-2010";
+static char *athena_version = "version 4.2 - 27-Nov-2016";
 
 #include <stdio.h>
 #include <stdlib.h>
